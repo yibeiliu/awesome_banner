@@ -1,0 +1,2 @@
+# awesome_banner
+支持视差变化的banner控件，类似网易云音乐首页banner
